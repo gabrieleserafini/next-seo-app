@@ -32,7 +32,7 @@ export async function generateMetadata({ params }) {
 
 export async function generateStaticParams({ params }) {
   const locale = params.locale;
-  return (await findLatestPosts(locale)).map(({ slug }) => ({ slug }));
+  return (await findLatestPosts({locale})).map(({ slug }) => ({ slug }));
 }
 
 export default async function Page({ params }) {
