@@ -1,4 +1,4 @@
-const SITE = require('./src/config.js').SITE;
+const SITE = require('./config.js').SITE;
 
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
