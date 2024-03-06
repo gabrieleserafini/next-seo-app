@@ -1,0 +1,51 @@
+{
+  "Index": {
+    "title": "Inflead, the best influencer marketing platform",
+    "metaTitleDefault": "Inflead - leader in influencer marketing",
+    "metaDescriptionDefault": "Inflead is the best influencer marketing platform.",
+    "metaCategoryDefault":"technology",
+    "metaKeywordsDefault":"social, marketing, influencer marketing, influencer, influencer marketing intelligence, social media, social media marketing, social media marketing intelligence"
+  },
+  "NotFoundPage":{
+    "title": "404 - Page not found"
+  },
+  "Error": {
+    "title": "Something went wrong!",
+    "description": "<p>We've unfortunately encountered an error.</p><p>You can try to <retry>reload the page</retry> you were visiting.</p>"
+  },
+  "Header": {
+    "platform": "Platform",
+    "blog": "Blog",
+    "contact": "Contact",
+    "services": "Services",
+    "pricing": "Pricing",
+    "about": "About us",
+    "faq": "FAQs",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, es {Spain} en {English} it {Italian} other {Unknown}}"
+  },
+  "Hero": {
+    "title": "The best influencer marketing intelligence.",
+    "subtitle": "LEAD THE INFLUENCE",
+    "login": "Login",
+    "requestDemo": "Request the live demo",
+    "imageAlt1": "Inflead Hero 1",
+    "imageAlt2": "Inflead Hero 2",
+    "imageAlt3": "Inflead Hero 3",
+    "imageAlt4": "Inflead Hero 4",
+    "frequentlyQuestions": "Frequently Asked Questions",
+    "faqSubtitle": "Explore them to optimize your experience with our website and products.",
+    "contactTitle": "Get in touch with us",
+    "contactSubtitle": "Our team can assist you in building your marketing dream.",
+    "servicesTitle": "Elevate your business",
+    "servicesSubtitle": "Inflead is the best influencer marketing platform. We are here to increase your brand awareness.",
+    "servicesCta": "Start Exploring",
+    "servicesAlt": "Inflead Services",
+    "pricingTitle": "Plans and pricing",
+    "pricingSubtitle": "You can choose the plan that best suits your goals!"
+  }
+}

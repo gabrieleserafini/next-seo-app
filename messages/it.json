@@ -1,0 +1,51 @@
+{
+  "Index": {
+    "title": "Inflead, la migliore piattaforma di influencer marketing",
+    "metaTitleDefault": "Inflead | la migliore piattaforma di influencer marketing",
+    "metaDescriptionDefault": "Inflead è la migliore piattaforma di influencer marketing.",
+    "metaCategoryDefault":"tecnologia",
+    "metaKeywordsDefault":"social, marketing, influencer marketing, influencer, influencer marketing intelligence, social media, social media marketing, social media marketing intelligence"
+  },
+  "NotFoundPage":{
+    "title": "404 - Pagina non trovata"
+  },
+  "Error": {
+    "title": "Qualcosa è andato storto!",
+    "description": "<p>Stiamo riscontrando un errore inaspettato.</p><p>Puoi provare a <retry>ricaricare la pagina</retry> che stavi visitando.</p>"
+  },
+  "Header": {
+    "platform": "Piattaforma",
+    "blog": "Blog",
+    "contact": "Contatti",
+    "services": "Servizi",
+    "pricing": "Prezzi",
+    "about": "Su Inflead",
+    "faq": "Domande Frequenti",
+    "terms": "Termini e Condizioni",
+    "privacy": "Informativa sulla privacy"
+  },
+  "LocaleSwitcher": {
+    "label": "Cambia lingua",
+    "locale": "{locale, select, es {Spain} en {English} it {Italian} other {Unknown}}"
+  },
+  "Hero": {
+    "title": "La migliore piattaforma di influencer marketing intelligence.",
+    "subtitle": "LEAD THE INFLUENCE",
+    "login": "Accedi",
+    "requestDemo": "Richiedi la demo",
+    "imageAlt1": "Inflead Hero 1",
+    "imageAlt2": "Inflead Hero 2",
+    "imageAlt3": "Inflead Hero 3",
+    "imageAlt4": "Inflead Hero 4",
+    "frequentlyQuestions": "Domande Frequenti",
+    "faqSubtitle": "Esplora questa sezione per migliorare l'esperienza con noi e i nostri prodotti.",
+    "contactTitle": "Contattaci",
+    "contactSubtitle": "Il nostro team può assisterti nel realizzare la migliore esperienza di marketing.",
+    "servicesTitle": "Fai crescere il tuo business",
+    "servicesSubtitle": "Inflead è la migliore piattaforma di influencer marketing. Siamo qui per aumentare la visibilità della tua marca.",
+    "servicesCta": "Inizia a Esplorare",
+    "servicesAlt": "Inflead Servizi",
+    "pricingTitle": "Piani e Prezzi",
+    "pricingSubtitle": "Scegli il piano adatto ai tuoi obiettivi!"
+  }
+}
