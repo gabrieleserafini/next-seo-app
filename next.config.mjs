@@ -9,7 +9,6 @@ const nextConfig = {
   swcMinify: true,
   trailingSlash: false,
   poweredByHeader: false,
-  experimental: { optimizeCss: true },
   images: {
     remotePatterns: [
       {
